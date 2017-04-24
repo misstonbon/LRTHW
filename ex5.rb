@@ -1,4 +1,4 @@
-my_name = "Tanja Stroble"
+my_name = "Tanja"
 my_age = 32
 my_height_in_inches = 68
 my_height_in_cm = my_height_in_inches * 2.54
