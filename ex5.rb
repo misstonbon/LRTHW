@@ -12,7 +12,7 @@ else
 end
 
 if health == "not overweight"
-    conclusion = "Hooray for me!"
+  conclusion = "Hooray for me!"
 elsif health == "overweight"
   conclusion = "And I will only eat lettuce until I sort myself out."
 end
